@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "defeway-camcount-testing", "defeway-camcount-testing\defeway-camcount-testing.csproj", "{A6130B0E-8E00-4B1C-A57E-9817E981C512}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "defeway multidownloader", "defeway-camcount-testing\defeway multidownloader.csproj", "{A6130B0E-8E00-4B1C-A57E-9817E981C512}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
